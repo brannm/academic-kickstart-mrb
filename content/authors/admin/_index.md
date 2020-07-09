@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Michelle Brann
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Chemistry PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Chicago
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently a 4th year Chemistry PhD candidate in the <a href="http://sibener-group.uchicago.edu/" target="_blank">Sibener Group</a> exploring gas-surface dynamics at the University of Chicago. For the 2019-2020 academic year, I am serving as co-President of my department's <a href="https://voices.uchicago.edu/womeninchemistry/"/target= "_blank">Women in Chemistry</a> organization. I am also a member of the <a href="https://acsycc.org/" target="_blank">National Younger Chemists Committee</a> of the American Chemical Society. After graduating from Wellesley College in May 2015 with a BA with Honors in Chemistry and a minor in Mathematics, I worked for one year as a research associate at Pacific Northwest National Laboratory in the National Security Directorate. 
 
 interests:
 - Artificial Intelligence
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  #- course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
