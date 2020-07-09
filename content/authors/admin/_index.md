@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a 4th year Chemistry PhD candidate in the <a href="http://sibener-group.uchicago.edu/" target="_blank">Sibener Group</a> exploring gas-surface dynamics at the University of Chicago. For the 2019-2020 academic year, I am serving as co-President of my department's <a href="https://voices.uchicago.edu/womeninchemistry/"/target= "_blank">Women in Chemistry</a> organization. I am also a member of the <a href="https://acsycc.org/" target="_blank">National Younger Chemists Committee</a> of the American Chemical Society. After graduating from Wellesley College in May 2015 with a BA with Honors in Chemistry and a minor in Mathematics, I worked for one year as a research associate at Pacific Northwest National Laboratory in the National Security Directorate. 
+bio: 
 
 interests:
 - Artificial Intelligence
@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Chemistry
+    institution: University of Chicago
+    year: 2017
+  - course: BA with Honors in Chemistry, Minor in Mathematics
+    institution: Wellesley College
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,11 +62,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently a 4th year Chemistry PhD candidate in the <a href="http://sibener-group.uchicago.edu/" target="_blank">Sibener Group</a> exploring gas-surface dynamics at the University of Chicago. For the 2019-2020 academic year, I am serving as co-President of my department's <a href="https://voices.uchicago.edu/womeninchemistry/"/target= "_blank">Women in Chemistry</a> organization. I am also a member of the <a href="https://acsycc.org/" target="_blank">National Younger Chemists Committee</a> of the American Chemical Society. After graduating from Wellesley College in May 2015 with a BA with Honors in Chemistry and a minor in Mathematics, I worked for one year as a research associate at Pacific Northwest National Laboratory in the National Security Directorate. 
