@@ -21,7 +21,8 @@ publication_types: ["7"]
 publication: "Honors Thesis, Wellesley College"
 publication_short: ""
 
-abstract: 
+abstract: In response to environmental stress cells produce reactive oxygen species (ROS),which can cause  molecular  damage  in  the  form of  DNA  breaks  and  modification  to  lipids  and proteins. On  the  other  hand, ROS  are  important  in  cell  signaling  to  induce  differential gene  expression,  metabolic  changes  and  thus,  adaptation  to  different  environmental conditions. The hypothesisof this projectis thattheROS responseanditsmodulation by transition  metals  areacommon  denominator  of  different  environmental  challenges, including   radiation   and   microgravity   during   spaceflight,   directly   applicabletothe unicellular green algaChlamydomonas reinhardtiigrown in spaceflight experiments. The goal  of  this thesis was  to  characterize  the  response  of C.  reinhardtiito  stress  by examining biochemical and gene expression changes using heat shock. The heat shocked (42  °C) C.  reinhardtiiexhibited an  increase  in  ROS  in  both  inside  the  celland in  the supernatant,  paralleled  by  a selective  regulation  of  ion  transporters,  specific  for  copper. These results  provide  new  insights  about  the  cellular  response  to  stress  and  its  possible mediation during long-term environmental pressureand provide a basis for understanding the evolution of multicellularity. 
+
 
 # Summary. An optional shortened abstract.
 summary:
