@@ -2,7 +2,7 @@
 title: "Method and apparatus for measuring biofilm thickness and topology"
 authors:
 - CJ Larimer
-- "JD Suter
+- JD Suter
 - RS Addleman
 - GT Bonheyo
 - MR Brann 
