@@ -1,7 +1,7 @@
 ---
 title: "Rapid Laser-Induced Temperature Jump Decomposition of the Nerve Agent Simulant Diisopropyl Methylphosphonate under Atmospheric Conditions"
 authors:
-- RS Thompson <sup>†</sup>
+- "RS Thompson <sup>†</sup>"
 - MR Brann <sup>†</sup>
 - EH Purdy
 - JD Graham
