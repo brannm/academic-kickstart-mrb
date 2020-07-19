@@ -22,7 +22,7 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Proc. SPIE 9960, Interferometry XVIII, 996004*"
+publication: "*Proc. SPIE 9960, Interferometry XVIII, 996004*"
 publication_short: ""
 
 abstract:  "White light interferometry (WLI) is not typically used to image bacterial biofilms that are immersed in water because there is insufficient refractive index contrast to induce reflection from the biofilm’s interface. The soft structure and water-like bulk properties of hydrated biofilms make them difficult to characterize in situ by any means, especially in a non-destructive manner. Here we describe a new method for measuring and monitoring the thickness and topology of live biofilms using a WLI microscope. A microfluidic system was used to create a reflective interface on the surface of biofilms. Live biofilm samples were monitored non-destructively over time. The method enables surface metrology measurements (roughness, surface area) and a novel approach to measuring thickness of the thin hydrated biofilms. Increase in surface roughness preceded observable increase in biofilm thickness, indicating that this measure may be used to predict future development of biofilms. We have also developed a flow cell that enables WLI biofilm imaging in a dynamic environment. We have used this flow cell to observe changes in biofilm structure in response to changes in environmental conditions - flow velocity, availability of nutrients, and presence of biocides."
