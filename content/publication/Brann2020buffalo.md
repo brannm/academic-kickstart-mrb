@@ -21,7 +21,7 @@ publishDate: ""
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "City Resiliency and Climate Change: A Report from the 2020 Inter-Policy School Summit"
+publication: "City Resiliency and Climate Change: A Report from the 2020 Inter-Policy School Summit and the Aspen Institute Energy and Environment Program"
 publication_short: ""
 
 abstract:  "As a city that will largely be shielded by climate change’s most devastating impacts, Buffalo may become
