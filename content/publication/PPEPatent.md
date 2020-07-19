@@ -1,13 +1,13 @@
 ---
-title: "Method and apparatus for measuring biofilm thickness and topology"
+title: "Stretchable hydrophobic materials and methods for making the same"
 authors:
 - CJ Larimer
-- JD Suter
 - RS Addleman
+- MR Brann
 - GT Bonheyo
-- MR Brann 
+- EM Winder
 
-date: "2018-06-28"
+date: "2020-03-03"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,10 +20,10 @@ publishDate: ""
 publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication: "US Patent No.10,005,999"
-publication_short: "US Patent No.10,005,999"
+publication: "US Patent No.US 10,577,511 B2"
+publication_short: "US Patent No.US 10,577,511 B2"
 
-abstract: An apparatus and method of measuring biofilm and biological activity on a surface is disclosed. The apparatus includes a biofilm, which includes one or more microorganisms, grown on a substrate. A viewing window is placed on a surface of the biofilm and a gas bubble is introduced between the viewing window and the surface of the biofilm. The space between the substrate and the viewing window may be enclosed in a casing that has an inlet and an outlet, forming a flow cell. A microscope system, such as a white light interferometer, captures data of the biofilm in situ and non-destructively. The 3D images of biofilm surface have high resolution while maintaining a large field of view. This invention will be useful for fundamental studies of biofilms, biomedical and environmental screening, and many other applications in biology and the life sciences.
+abstract: Hydrophobic materials, processes for their production, and uses thereof are described. The materials can be made with silica or polytetrafluoroethylene particles embedded into a liquid polymer. The hydrophobic materials are stretchable.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -33,8 +33,8 @@ featured: false
 
 #links:
 #- name: "Link"
-url: "https://patents.google.com/patent/US20180274905A1/en"
-#url_pdf: "https://patents.google.com/patent/US20180274905A1/en"
+url: https://patents.google.com/patent/US20170204279A1/en
+#url_pdf: "https://patents.google.com/patent/US20170204279A1/en"
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
