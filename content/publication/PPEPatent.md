@@ -33,8 +33,8 @@ featured: false
 
 #links:
 #- name: "Link"
-url: https://patents.google.com/patent/US20170204279A1/en
-#url_pdf: "https://patents.google.com/patent/US20170204279A1/en"
+#url: https://patents.google.com/patent/US20170204279A1/en
+url_pdf: "https://patents.google.com/patent/US20170204279A1/en"
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
