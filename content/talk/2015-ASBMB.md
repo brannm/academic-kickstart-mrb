@@ -1,5 +1,5 @@
 ---
-title: The Role of Copper in the Oxidative Stress Response of Chlamydomonas reinhardtii to heat shock
+title: The Role of Copper in the Oxidative Stress Response of Chlamydomonas reinhardtii to Heat Shock (Poster)
 event: American Society for Biochemistry and Molecular Biology (ASBMB) National Meeting
 #event_url: https://example.org
 

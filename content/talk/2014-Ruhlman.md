@@ -1,5 +1,5 @@
 ---
-title: Growth Factors for Prostate Cancer Cells
+title: Growth Factors for Prostate Cancer Cells (Poster)
 event: Ruhlman Conference
 #event_url: https://example.org
 
