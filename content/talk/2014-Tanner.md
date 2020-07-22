@@ -13,7 +13,7 @@ abstract: "This summer, I was a member of the NASA Ames Academy for Space Explor
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2013-10-28T15:00:00Z"
+date: "2014-10-28T15:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 

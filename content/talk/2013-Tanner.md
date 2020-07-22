@@ -1,5 +1,5 @@
 ---
-title: Response of <em>Chlamydomonas Reinhardtii</em> to Oxidative Stress and Limits of Habitability(Oral)
+title: Response of Chlamydomonas Reinhardtii to Oxidative Stress and Limits of Habitability (Oral)
 event: Tanner Conference
 #event_url: https://example.org
 
