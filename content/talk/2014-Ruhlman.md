@@ -10,15 +10,16 @@ address:
 summary: Identified protein (thimet oligopeptidase) phosphorylation and how that relates to prostate tumor cell proliferation in vitro
 
 abstract: "The difficulty with prostate cancer treatment stems from the sensitivity change towards androgens as the cancer develops. Dihydrotestosterone, an androgen, and gonadotropic releasing hormone (GnRH), a peptide, are growth factors responsible for the proliferation of prostate cancer cells. The enzyme thimet oligopeptidase (TOP) has the potential to break down the growth factors for insensitive cells, especially GnRH, a crucial regulator in the hypothalamic-pituitary-gonadal axis. If this holds true, TOP plays an important regulatory role in steroid hormone production that may have implications for treatment. In order to determine the effects of TOP in this process, androgen-sensitive prostate cancer cells were treated with the steroids estradiol or dihydrotestosterone, or with GnRH, and the levels of TOP quantified. Additionally, it is known that phosphorylation of TOP decreases its affinity for GnRH but increases the turnover rate. To conclude whether phosphorylation is important in GnRH hydrolysis in cancer cells, we are developing methods to identify phosphorylation using mass spectrometry."
+date_format = "Jan 2006"
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date_format = "Jan 2006"
 date: "2014-04-30"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
