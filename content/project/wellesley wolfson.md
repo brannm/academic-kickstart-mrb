@@ -10,7 +10,7 @@ title = "Wellesley: Prostate Tumor Cell Proliferation"
 summary = "Exploration of thimet oligopeptidase (TOP) modifications, specifically phosphorylation, that affects TOP’s relationship with GnRH and thus prostate tumor cell proliferation in vitro."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "maldi.png"
+#image_preview = "maldi.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
