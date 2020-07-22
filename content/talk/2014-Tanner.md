@@ -1,5 +1,5 @@
 ---
-title: Response of <em>Chlamydomonas Reinhardtii</em> to Oxidative Stress and Limits of Habitability(Oral)
+title: NASA Ames Academy: My Summer of Space and Personal Explo- ration (Oral)
 event: Tanner Conference
 #event_url: https://example.org
 
@@ -9,11 +9,11 @@ address:
 
 summary: The Tanner Conference provides a venue for students and alumnae to reflect critically upon, analyze, and share their off-campus experiences with others in the College community
 
-abstract: "This summer, I interned in an astrobiology lab at NASA Ames Research Center. My lab sought to determine how life adapts to habitable extreme environments and to microgravity during spaceflight. We hypothesized that this adaptation for survival in extreme environments is due to regulating a universal stress response through intracellular reactive oxygen species (ROS). My project focused on characterizing the response of *C. reinhardtii*, a model for growing life support systems in space, to heat shock as a form of oxidative stress by examining metabolic, biochemical and gene expression changes. In the lab, I focused on molecular biology research but learned the importance of collaboration with those of difference backgrounds. Over the summer, I fell in love with the interdisciplinary field of astrobiology and now see it as a possible career choice. Through my presentation, I hope to demonstrate how NASA is more than human spaceflight."
+abstract: "This summer, I was a member of the NASA Ames Academy for Space Exploration which mentors future leaders of the American Space Program by exposure to how the system works. As a research associate, I spent the majority of my time working on my individual research using algae as a model organism to understand the intracellular response to stress as it relates to evolution and mitigating this response during spaceflight. As a member of the “Academite” team comprised of nine other engineers and scientists, I developed and collected data for our Carbon dioxide and Germinating Seed (COGS) Study towards the ultimate goal of human settlement beyond Earth. Additionally, I had the opportunity to meet numerous figureheads in the space industry and to tour other NASA centers and private aerospace companies. Through this challenging and unforgettable summer as a leader, I confirmed my passion for a career in the space industry."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2013-10-29T13:30:00Z"
+date: "2013-10-28T15:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
