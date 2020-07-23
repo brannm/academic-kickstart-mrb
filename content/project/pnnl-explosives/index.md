@@ -10,7 +10,8 @@ title = "PNNL: Vapor and particle detection of explosive materials"
 summary = "Used ion mobility spectrometry to test new thin film coatings for improved detection of trace explosives."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "explosives.png"
+#image_preview = "explosives.png"
+preview_only: false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
