@@ -3,6 +3,9 @@
 date = 2016-04-27T00:00:00
 draft = false
 
+[image]
+  preview_only = true
+
 # Project title.
 title = "PNNL: Vapor and particle detection of explosive materials"
 
@@ -11,7 +14,6 @@ summary = "Used ion mobility spectrometry to test new thin film coatings for imp
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "explosives.png"
-preview_only: false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
