@@ -10,7 +10,7 @@ draft = false
 summary = "Characterized the response of <em>C. reinhardtii</em> to heat shock as a form as a form of oxidative stress by examining metabolic, biochemical, and gene expression changes."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "/img/supercluture.jpg"
+image_preview = "img/supercluture.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
