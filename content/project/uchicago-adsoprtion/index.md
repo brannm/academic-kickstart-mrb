@@ -10,7 +10,7 @@ title = "UChicago: Gas-Surface Dynamics"
 summary = "Using supersonic molecular beams and time-resolved FT-RAIR Spectroscopy under UHV to explore initial adsorption of small molecules on various icy interfaces and destruction of nerve agent simulants."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image = "uhv.jpg"
+image_preview = "uhv.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
