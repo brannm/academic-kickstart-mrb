@@ -1,7 +1,7 @@
 ---
 title: "Buffalo:  Where Community Resilience is Climate Resilience"
 authors:
-- MR Brann
+- M Brann
 - R Chambers
 - P DeStephano
 - K Donatelli
