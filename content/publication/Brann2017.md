@@ -1,7 +1,7 @@
 ---
 title: "Monitoring Bacterial Biofilms with a Microfluidic Flow Chip Designed for Imaging with White-Light Interferometry"
 authors:
-- MR Brann 
+- **MR Brann** 
 - JD Suter
 - RS Addleman
 - CJ Larimer
