@@ -3,8 +3,6 @@
 date = 2016-04-27T00:00:00
 draft = false
 
-[image]
-  preview_only = true
 
 # Project title.
 title = "PNNL: Vapor and particle detection of explosive materials"
@@ -34,6 +32,6 @@ math = false
 
 During my gap year as a research associate at Pacific Northwest National Laboratory (PNNL) in the National Security Directorate, I worked on a project geared towards improving the detection of trace explosives. I gained expertise in ion mobility
 spectrometry (IMS) and polymer thin film coatings. The goal was to produce a novel collection media that was effective for particles and vapors, inexpensive and reusable, effective for range of analytes, and amenable to integration with detection systems. At the 2016 American Chemical Society Fall Meeting, I presented results demonstrating that a polymer ceramic composite coating on steel mesh resulted in a higher IMS signal and lower detection limit than commercial Teflon® coated and uncoated muslin cotton sampling material. My testing enabled coating selection for product commercialization and airport adoption. A publication from this work is currently in progress. 
-#![Poster at Fall 2016 ACS Meeting](/img/acspnnl2.jpg)
+
 
 
