@@ -23,7 +23,7 @@ external_link = ""
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
-#[header]
+[header]
 image = "uhv.jpg"
 #caption = "My caption :smile:"
 
