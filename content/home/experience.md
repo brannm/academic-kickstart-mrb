@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2019-09-01"
   date_end = "2019-12-01"
-  description = """An elective taught in the Harris School of Public Policy typically taken by second year Master of Public Policy students, was asked to TA after high-performance when taking the course in Fall 2018. Responsible for grading all assignments:  reading responses, policy brief, midterm, in class debate, and debateposition paper for 31 students."""
+  description = """An elective taught in the Harris School of Public Policy typically taken by second year Master of Public Policy students, was asked to TA after high-performance when taking the course in Fall 2018. Responsible for grading all assignments:  reading responses, policy brief, midterm, in class debate, and debate position paper for 31 students."""
 
 [[experience]]
   title = "Chemistry Tutor"

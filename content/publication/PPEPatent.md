@@ -20,8 +20,8 @@ publishDate: ""
 publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication: "US Patent No.US 10,577,511 B2"
-publication_short: "US Patent No.US 10,577,511 B2"
+publication: "US Patent No. 10,577,511 B2"
+publication_short: "US Patent No. 10,577,511 B2"
 
 abstract: Hydrophobic materials, processes for their production, and uses thereof are described. The materials can be made with silica or polytetrafluoroethylene particles embedded into a liquid polymer. The hydrophobic materials are stretchable.
 
