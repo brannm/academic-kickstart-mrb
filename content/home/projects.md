@@ -28,6 +28,19 @@ subtitle = ""
    [[content.filter_button]]
      name = "Wellesley"
      tag = "Wellesley"
+     
+   [[content.filter_button]]
+     name = "NASA"
+     tag = "NASA"    
+     
+   [[content.filter_button]]
+     name = "Pacific Norwest National Laboratory"
+     tag = "PNNL" 
+
+   [[content.filter_button]]
+     name = "University of Chicago"
+     tag = "UChicago"     
+          
   
   # [[content.filter_button]]
   #   name = "Other"
