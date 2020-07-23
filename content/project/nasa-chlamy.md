@@ -7,7 +7,7 @@ title = "NASA: Oxidative Stress Response of Chlamydomonas reinhardtii to heat sh
 draft = false
 
 # Project summary to display on homepage.
-summary = "Characterized the response of *C. reinhardtii* to heat shock as a form as a form of oxidative stress by examining metabolic, biochemical, and gene expression changes."
+summary = "Characterized the response of <em>C. reinhardtii</em> to heat shock as a form as a form of oxidative stress by examining metabolic, biochemical, and gene expression changes."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "superculture.jpg"
