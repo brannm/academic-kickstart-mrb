@@ -1,5 +1,5 @@
 ---
-title: The Role of Copper in the Oxidative Stress Response of Chlamy- domonas reinhardtii to heat shock (Oral)
+title: The Role of Copper in the Oxidative Stress Response of Chlamydomonas reinhardtii to heat shock (Oral)
 event: Ruhlman Conference
 #event_url: https://example.org
 
