@@ -1,5 +1,5 @@
 ---
-title: NASA Ames Academy My Summer of Space and Personal Exploration (Oral)
+title: NASA Ames Academy':' My Summer of Space and Personal Exploration (Oral)
 event: Tanner Conference
 #event_url: https://example.org
 
