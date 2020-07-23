@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2017-01-01"
   date_end = "2018-03-01"
-  description = """Provide individual sessions for a local college student to excel in chemistry courses and fulfill dreams of becom-ingx a veterinarian."""
+  description = """Provide individual sessions for a local college student to excel in chemistry courses and fulfill dreams of becoming a veterinarian."""
 
 [[experience]]
   title = "Teaching Assistant, General Chemistry w/ Lab (CHEM 112)"
@@ -42,5 +42,41 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2019-01-01"
   date_end = "2019-03-01"
-  description = """Held weekly discussion sessions, open office hours, led laboratory sessions, graded lab reports and homeworkassignments for 17 introductory chemistry students."""
+  description = """Held weekly discussion sessions, open office hours, led laboratory sessions, graded lab reports and homework assignments for 17 introductory chemistry students."""
+  
+[[experience]]
+  title = "Teaching Assistant, Honors General Chemistry w/ Lab (CHEM 121-122)"
+  company = "University of Chicago"
+  company_url = ""
+  location = ""
+  date_start = "2016-09-01"
+  date_end = "2016-12-01"
+  description = """Held weekly discussion sessions, open office hours, led laboratory sessions, graded lab reports and homework assignments for 12 introductory advanced chemistry students. Received extremely positive feedback, all students would choose as a TA again."""
+  
+[[experience]]
+  title = "Math and Science Tutor"
+  company = "Tri-Cities WA"
+  company_url = ""
+  location = ""
+  date_start = "2015-09-01"
+  date_end = "2016-09-01"
+  description = """Taught math and science to up to seven clients ranging in age from elementary school to high school over a variety of subjects including chemistry, biology algebra I, algebra II, pre-calculus, statistics, SAT and ACT prep. Within three months helped one client pass both biology and algebra after previously failing."""
+
+[[experience]]
+  title = "Peer Tutor, Pforzheimer Learning and Teaching Center"
+  company = "Wellesley College"
+  company_url = ""
+  location = ""
+  date_start = "2013-02-01"
+  date_end = "2013-05-01"
+  description = """Answered questions and assisted students with their weekly problem sets and lecture notes for calculus (I, II and II), linear algebra, and differential equations."""
+
+[[experience]]
+  title = "Math Tutor"
+  company = "Weston, MA"
+  company_url = ""
+  location = ""
+  date_start = "2012-10-01"
+  date_end = "2013-03-01"
+  description = """Worked one-on-one with a 4th grade girl to solve math problems using order of operations, algebra and problem solving skills."""
 +++
