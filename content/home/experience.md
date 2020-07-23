@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 100  # Order that this section will appear.
 
 title = "Teaching Experience"
 subtitle = ""
@@ -18,27 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Teaching Assistant, Energy Policy and Human Behavior (PPHA 39925)"
+  company = "University of Chicago"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  date_start = "2019-10-01"
+  date_end = "2019-12-01"
+  description = """An elective taught in the Harris School of Public Policy typically taken by second year Master of Public Policy students, was asked to TA after high-performance when taking the course in Fall 2018. Responsible for grading all assignments:  reading responses, policy brief, midterm, in class debate, and debateposition paper for 31 students"""
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+
 
 +++
