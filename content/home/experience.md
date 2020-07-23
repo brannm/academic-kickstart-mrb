@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2016-09-01"
-  date_end = "2016-12-01"
+  date_end = "2017-03-01"
   description = """Held weekly discussion sessions, open office hours, led laboratory sessions, graded lab reports and homework assignments for 12 introductory advanced chemistry students. Received extremely positive feedback, all students would choose as a TA again."""
   
 [[experience]]
@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   company = "Wellesley College"
   company_url = ""
   location = ""
-  date_start = "2013-02-01"
+  date_start = "2013-01-01"
   date_end = "2013-05-01"
   description = """Answered questions and assisted students with their weekly problem sets and lecture notes for calculus (I, II and II), linear algebra, and differential equations."""
 
