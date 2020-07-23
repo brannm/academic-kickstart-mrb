@@ -34,7 +34,7 @@ subtitle = ""
      tag = "NASA"    
      
    [[content.filter_button]]
-     name = "Pacific Norwest National Laboratory"
+     name = "Pacific Northwest National Laboratory"
      tag = "PNNL" 
 
    [[content.filter_button]]
