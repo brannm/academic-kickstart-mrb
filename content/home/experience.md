@@ -32,8 +32,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2017-01-01"
-  date_end = "2018-03-01"
-  description = """Provide individual sessions for a local college student to excel in chemistry courses and fulfill dreams of becoming a veterinarian."""
+  date_end = "2018-06-01"
+  description = """Provided individual sessions for a local college student to excel in chemistry courses and fulfill dreams of becoming a veterinarian. Tutored a high school student at the University of Chicago lab School in advanced chemistry"""
 
 [[experience]]
   title = "Teaching Assistant, General Chemistry w/ Lab (CHEM 112)"
