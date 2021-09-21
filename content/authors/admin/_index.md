@@ -67,4 +67,4 @@ email: ""
 #- Visitors
 ---
 
-I am currently a 5th year Chemistry PhD candidate in the [Sibener Group](http://sibener-group.uchicago.edu) exploring gas-surface dynamics at the University of Chicago. I am also a member of the [National Younger Chemists Committee](https://acsycc.org) of the American Chemical Society. After graduating from Wellesley College in May 2015 with a BA with Honors in Chemistry and a minor in Mathematics, I worked for one year as a research associate at Pacific Northwest National Laboratory in the National Security Directorate. 
+I am currently a 6th year Chemistry PhD candidate in the [Sibener Group](http://sibener-group.uchicago.edu) exploring gas-surface dynamics at the University of Chicago. I am also a member of the [National Younger Chemists Committee](https://acsycc.org) of the American Chemical Society. After graduating from Wellesley College in May 2015 with a BA with Honors in Chemistry and a minor in Mathematics, I worked for one year as a research associate at Pacific Northwest National Laboratory in the National Security Directorate. 

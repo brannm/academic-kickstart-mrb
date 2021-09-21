@@ -3,6 +3,7 @@ title: "Isotope Enrichment via Preferential Condensation of Isotopologues and Is
 authors:
 - SJ Sibener
 - MR Brann 
+- SP Hansknecht
 
 date: "2021-04-30"
 doi: ""
@@ -52,7 +53,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [pnnl-wli]
+projects: [uchicago-adsorption]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
