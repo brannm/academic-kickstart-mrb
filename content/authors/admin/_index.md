@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+    - course: PhD in Chemistry
+    institution: University of Chicago
+    year: 2022 (Expected)
   - course: MS in Chemistry
     institution: University of Chicago
     year: 2017
