@@ -21,7 +21,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Physical Chemistry A*"
+publication: "*Invited Submission to the Journal of Physical Chemistry A*"
 publication_short: ""
 
 abstract:  "We examine the initial differential sticking probability of CH<sub>4</sub> and CD<sub>4</sub> on CH<sub>4</sub> and CD<sub>4</sub> ices under nonequilibrium
