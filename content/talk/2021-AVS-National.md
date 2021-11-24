@@ -1,5 +1,5 @@
 ---
-title: Molecular Interactions with Frozen Ice Films: Adsorption, Oxidative Reactivity,and Isotopic Enrichment (Invited Oral)
+title: Molecular Interactions with Frozen Ice Films Adsorption, Oxidative Reactivity, and Isotopic Enrichment (Invited Oral)
 event: American Vacuum Society 67 Virtual Symposium Awards Session
 #event_url: https://example.org
 
