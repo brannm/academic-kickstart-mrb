@@ -53,8 +53,8 @@ subtitle = ""
 
 
 ## Invited Oral Presentations
-1. “Condensed Phase Adsorption and Reactivity: Extraterrestrial Ices and Olefin Oxidation” Physical Electronic Conference Nottingham Prize Competition, Chicago, IL, June 2022.
-2. “Role of Film Structure on the Condensed Phase Reactivity of Propene with O(<sup>3</sup>P Atomic Oxygen.” American Chemical Society (ACS) Meeting, San Diego, CA, March 2022.
+1. “Condensed Phase Adsorption and Reactivity: Extraterrestrial Ices and Olefin Oxidation” Physical Electronic Conference (PEC) Nottingham Prize Competition, Chicago, IL, June 2022.
+2. “Role of Film Structure on the Condensed Phase Reactivity of Propene with O(<sup>3</sup>P) Atomic Oxygen.” American Chemical Society (ACS) Meeting, San Diego, CA, March 2022.
 3. “Molecular Interactions with Frozen Ice Films: Adsorption, Oxidative Reactivity, and Isotopic Enrichment.” American Vacuum Society (AVS) Surface Science Division Mort Traum Finale, virtual, October 2021.
 4. “Molecular Interactions with Frozen Ice Films: Adsorption, Oxidative Reactivity, and Isotopic Enrichment.”  American Vacuum Society (AVS) 2021 Graduate Research Award Talk, AVS 67 Virtual Symposium Awards Session, October 2021.
 5. “Morphological and Temperature-Dependent Oxidative Reactivity of Olefin Thin Films.” Dynamics at Surfaces Gordon Research Seminar, Newport, RI, July 2019.

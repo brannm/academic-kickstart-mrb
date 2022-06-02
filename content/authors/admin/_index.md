@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Recent Chemistry PhD Graduate
+role: Chemistry PhD 
 
 # Organizations/Affiliations
 organizations:
