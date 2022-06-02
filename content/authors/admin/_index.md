@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Chemistry PhD Candidate
+role: Recent Chemistry PhD Graduate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago
+- name: Univeristy of Chicago
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,4 +70,4 @@ email: ""
 #- Visitors
 ---
 
-Michelle Brann (she/her) is a 6th year Chemistry PhD candidate in the [Sibener Group](http://sibener-group.uchicago.edu) exploring gas-surface dynamics at the University of Chicago. She is also a member of the [National Younger Chemists Committee](https://acsycc.org) of the American Chemical Society. After graduating from Wellesley College in May 2015 with a BA with Honors in Chemistry and a minor in Mathematics, she worked for one year as a research associate at Pacific Northwest National Laboratory in the National Security Directorate. 
+Michelle Brann (she/her) is a recent Chemistry PhD graduate from the [Sibener Group](http://sibener-group.uchicago.edu) where she explored gas-surface dynamics at the University of Chicago. She defended in May 2022 and will be moving to National Institute of Standards and Technology (NIST) to start a [NRC postdc](https://sites.nationalacademies.org/PGA/RAP/index.htm) this fall. She is also a member of the [National Younger Chemists Committee](https://acsycc.org) of the American Chemical Society. After graduating from Wellesley College in May 2015 with a BA with Honors in Chemistry and a minor in Mathematics, she worked for one year as a research associate at Pacific Northwest National Laboratory in the National Security Directorate. 
