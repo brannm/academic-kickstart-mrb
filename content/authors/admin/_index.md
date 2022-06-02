@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Michelle Brann
+title: Michelle Brann PhD
 
 # Username (this should match the folder name)
 authors:
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+    - course: PhD in Chemistry
+    institution: University of Chicago
+    year: 2022
   - course: MS in Chemistry
     institution: University of Chicago
     year: 2017
