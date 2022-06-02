@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Michelle Brann, PhD
+title: Michelle Brann
 
 # Username (this should match the folder name)
 authors:
@@ -70,4 +70,4 @@ email: ""
 #- Visitors
 ---
 
-Michelle Brann (she/her) is a recent Chemistry PhD graduate from the [Sibener Group](http://sibener-group.uchicago.edu) at the University of Chicago where she explored gas-surface dynamics. She defended in May 2022 and will be moving to the National Institute of Standards and Technology (NIST) to start a [NRC postdc](https://sites.nationalacademies.org/PGA/RAP/index.htm) this fall. She is also a member of the [National Younger Chemists Committee](https://acsycc.org) of the American Chemical Society. After graduating from Wellesley College in May 2015 with a BA with Honors in Chemistry and a minor in Mathematics, she worked for one year as a research associate at Pacific Northwest National Laboratory in the National Security Directorate. 
+Michelle Brann (she/her) is a recent Chemistry PhD graduate from the [Sibener Group](http://sibener-group.uchicago.edu) at the University of Chicago where she explored gas-surface dynamics. She defended in May 2022 and will be moving to the National Institute of Standards and Technology (NIST) to start a [NRC postdoc](https://sites.nationalacademies.org/PGA/RAP/index.htm) this fall. She is also a member of the [National Younger Chemists Committee](https://acsycc.org) of the American Chemical Society. After graduating from Wellesley College in May 2015 with a BA with Honors in Chemistry and a minor in Mathematics, she worked for one year as a research associate at Pacific Northwest National Laboratory in the National Security Directorate. 
