@@ -70,6 +70,8 @@ subtitle = ""
 7. “Response of *Chlamydomonas Reinhardtii* to Oxidative Stress and Limits of Habitability.” Tanner Conference, Wellesley, MA, October 2013.
 
 ## Poster Presentations
+1. Condensed Phase Adsorption and Reactivity: Extraterrestrial Ices, Isotopic Enrichment” Chemistry and Physics at Low Temperature, virtual, July 2022.
+2. “Water and Membrane Structure: Acetone-Hydrogen Bonding and SECM-AFM.”Advanced Materials for Energy-Water Systems Center (AMEWS) Annual Meeting, Argonne National Laboratory, June 2022
 1. “Reaction Kinetics and Influence of Film Morphology on Propene Thin Film Oxidation.” 238th Meeting of the American Astronomical Society (AAS), virtual, June 2021.
 2. “Reverse Water-Gas Shift Chemistry Inside a Supersonic Molecular Beam Nozzle.” American Association for the Advancement of Science (AAAS) Annual Meeting, virtual, February 2021.
 3. “Laser-Induced Decomposition of the Nerve Agent Simulant Dissopropyl Methyphosphonate Under High Temperature Atmospheric Conditions.” American Vacuum Society (AVS) Prairie Chapter Symposium, virtual, September 2020.
