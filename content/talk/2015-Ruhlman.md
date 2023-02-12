@@ -53,7 +53,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- wellesley-wolfson
+#- wellesley-wolfson
 
 # Enable math on this page?
 math: false
