@@ -74,7 +74,7 @@ subtitle = ""
 
 ## Poster Presentations
 1. “Differential Condensation of Methane Isotopologues under Non-Equilibrium Gas Surface Conditions: Experimental Methods and Molecular Dynamic Simulations” American Chemical Society (ACS) Fall Meeting, San Francisco, CA, August 2023.
-2. “Chemical Complexity and the Role of Condensed Film Structure: Methane Adsorption and Propene Oxidation”Astrochemistry at High Resolution Faraday Discussion, Baltimore, MD, May 2023.
+2. “Chemical Complexity and the Role of Condensed Film Structure: Methane Adsorption and Propene Oxidation” Astrochemistry at High Resolution Faraday Discussion, Baltimore, MD, May 2023.
 3. Calibration of Mid-Infrared Superconducting Nanowire Single Photon Detectors” 30th Annual NIST Sigma XI Early-Career Poster Presentation, NIST, Gaithersburg, MD, May 2023.
 1. "Molecular Interactions with Frozen Ice Films: Adsorption, Isotope Effects, and Hydrogen Bonding” American Chemical Society (ACS) Fall Meeting, Chicago, IL, August 2022.
 1. "Condensed Phase Adsorption and Reactivity: Extraterrestrial Ices, Isotopic Enrichment” Chemistry and Physics at Low Temperature, virtual, July 2022.
