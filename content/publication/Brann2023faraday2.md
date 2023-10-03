@@ -1,5 +1,5 @@
 ---
-title: "Laboratory Astrochemistry of the Gas Phsae: General Discussion"
+title: "Laboratory Astrochemistry of the Gas Phase: General Discussion"
 authors:
 - N Balucani
 - M Brann
