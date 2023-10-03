@@ -53,7 +53,8 @@ subtitle = ""
 
 
 ## Invited Oral Presentations
-1. “Condensed Phase Adsorption and Reactivity: Extraterrestrial Ices and Olefin Oxidation” Physical Electronic Conference (PEC) Nottingham Prize Competition, Chicago, IL, June 2022.
+1. The NRC Program at Federal Agencies” American Chemical Society (ACS) Fall Meeting, San Francisco, CA, August 2023
+1. Condensed Phase Adsorption and Reactivity: Extraterrestrial Ices and Olefin Oxidation” Physical Electronic Conference (PEC) Nottingham Prize Competition, Chicago, IL, June 2022.
 2. “Role of Film Structure on the Condensed Phase Reactivity of Propene with O(<sup>3</sup>P) Atomic Oxygen.” American Chemical Society (ACS) Meeting, San Diego, CA, March 2022.
 3. “Molecular Interactions with Frozen Ice Films: Adsorption, Oxidative Reactivity, and Isotopic Enrichment.” American Vacuum Society (AVS) Surface Science Division Mort Traum Finale, virtual, October 2021.
 4. “Molecular Interactions with Frozen Ice Films: Adsorption, Oxidative Reactivity, and Isotopic Enrichment.”  American Vacuum Society (AVS) 2021 Graduate Research Award Talk, AVS 67 Virtual Symposium Awards Session, October 2021.
@@ -61,6 +62,7 @@ subtitle = ""
 
 
 ## Oral Presentations
+1. “Calibration System for Mid-infrared Superconducting Nanowire Single Photon Detectors” SPIE Optics and Photoics Conference, San Diego, CA, August 2023.
 1. "Molecular Interactions with Frozen Ice Films: Adsorption, Isotope Effects, and Hydrogen Bonding” American Chemical Society (ACS) Fall Meeting, Chicago, IL, August 2022
 1. “Differential Condensation of Methane Isotopologues and Subsequent Isotopic Enrichment.” Midwest Women in Science Conference (WISC), virtual, September 2021.
 2. “Differential Condensation of Methane Isotopologues and Subsequent Isotopic Enrichment Under Non-equilibrium Gas-Surface Collision Conditions.” American Vacuum Society (AVS) Prairie Chapter Symposium, virtual, September 2021.
@@ -71,6 +73,9 @@ subtitle = ""
 7. “Response of *Chlamydomonas Reinhardtii* to Oxidative Stress and Limits of Habitability.” Tanner Conference, Wellesley, MA, October 2013.
 
 ## Poster Presentations
+1. “Differential Condensation of Methane Isotopologues under Non-Equilibrium Gas Surface Conditions: Experimental Methods and Molecular Dynamic Simulations” American Chemical Society (ACS) Fall Meeting, San Francisco, CA, August 2023.
+2. “Chemical Complexity and the Role of Condensed Film Structure: Methane Adsorption and Propene Oxidation”Astrochemistry at High Resolution Faraday Discussion, Baltimore, MD, May 2023.
+3. Calibration of Mid-Infrared Superconducting Nanowire Single Photon Detectors” 30th Annual NIST Sigma XI Early-Career Poster Presentation, NIST, Gaithersburg, MD, May 2023.
 1. "Molecular Interactions with Frozen Ice Films: Adsorption, Isotope Effects, and Hydrogen Bonding” American Chemical Society (ACS) Fall Meeting, Chicago, IL, August 2022.
 1. "Condensed Phase Adsorption and Reactivity: Extraterrestrial Ices, Isotopic Enrichment” Chemistry and Physics at Low Temperature, virtual, July 2022.
 2. “Water and Membrane Structure: Acetone-Hydrogen Bonding and SECM-AFM.”Advanced Materials for Energy-Water Systems Center (AMEWS) Annual Meeting, Argonne National Laboratory, June 2022
