@@ -3,7 +3,6 @@ title: "Calibration System for Mid-infrared Superconducting Nanowire Single Phot
 authors:
 - MR Brann 
 - V Verma
-- GT Bonheyo
 - SI Woods
 
 
