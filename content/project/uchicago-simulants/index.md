@@ -4,10 +4,10 @@ date = 2016-04-27T00:00:00
 draft = false
 
 # Project title.
-title = "UChicago: Gas-Surface Dynamics"
+title = "UChicago: Chemical Simulants"
 
 # Project summary to display on homepage.
-summary = "Using supersonic molecular beams and time-resolved FT-RAIR Spectroscopy under ultra-high vacuum to examine how impinging molecules adsorb, react, or diffuse into frozen ice films and destruction of nerve agent simulants."
+summary = "Destruction of nerve agent simulants."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "uhv.jpg"
