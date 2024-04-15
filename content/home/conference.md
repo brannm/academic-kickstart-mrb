@@ -62,7 +62,7 @@ subtitle = ""
 
 
 ## Oral Presentations
-1. Amorphous and Crystalline Propene Reactivity with Ground State Atomic Oxygen (O($^3$P))'' Laboratory Astrophysics Workshop, Kapa'a, Kauai, Hawaii, February 2024.
+1. Amorphous and Crystalline Propene Reactivity with Ground State Atomic Oxygen (O(<sup>3</sup>P))'' Laboratory Astrophysics Workshop, Kapa'a, Kauai, Hawaii, February 2024.
 2. "Molecular Interactions with Frozen Ice Films: Adsorption, Isotope Effects, and Hydrogen Bonding” American Chemical Society (ACS) Fall Meeting, Chicago, IL, August 2022.
 1. “Differential Condensation of Methane Isotopologues and Subsequent Isotopic Enrichment.” Midwest Women in Science Conference (WISC), virtual, September 2021.
 2. “Differential Condensation of Methane Isotopologues and Subsequent Isotopic Enrichment Under Non-equilibrium Gas-Surface Collision Conditions.” American Vacuum Society (AVS) Prairie Chapter Symposium, virtual, September 2021.
