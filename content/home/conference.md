@@ -85,7 +85,7 @@ subtitle = ""
 4. American Vacuum Society Prairie Chapter Symposium, Urbana, IL, September 2019.
 3. Dynamics at Surfaces Gordon Research Conference, Newport, RI, July 2019.
 2. American Chemical Society Meeting, Philadelphia, PA, August 2016.
-1. American Society for Biochemistry and Molecular Biology meeting, Boston, MA, March 2015. *Best Poster in Plant Metabolism*
+1. American Society for Biochemistry and Molecular Biology meeting, Boston, MA, March 2015. Best Poster in Plant Metabolism
 
 
 
