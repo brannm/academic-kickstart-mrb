@@ -74,18 +74,21 @@ subtitle = ""
 
 ## Poster Presentations
 1. American Chemical Society Fall Meeting, Denver, CO, August 2024.
-15. CAS (Chemical Abstract Services) Future Leaders Poster Session, CAS, Columbus, OH, August 2024. 14. Northeast Star and Planet Formation Meeting, MIT Haystack Observatory, MA, July 2024.
+15. CAS (Chemical Abstract Services) Future Leaders Poster Session, CAS, Columbus, OH, August 2024. 
+15.  Northeast Star and Planet Formation Meeting, MIT Haystack Observatory, MA, July 2024.
 13. American Chemical Society Fall Meeting, San Francisco, CA, August 2023.
 12. Astrochemistry at High Resolution Faraday Discussion, Baltimore, MD, May 2023.
-11. 30th Annual NIST Sigma XI Early-Career Poster Presentation, NIST, Gaithersburg, MD, May 2023. 10. American Chemical Society Fall Meeting, Chicago, IL, August 2022.
+11. 30th Annual NIST Sigma XI Early-Career Poster Presentation, NIST, Gaithersburg, MD, May 2023. 
+11. 10. American Chemical Society Fall Meeting, Chicago, IL, August 2022.
 9. Chemistry and Physics at Low Temperature, virtual, July 2022.
 8. Advanced Materials for Energy-Water Systems Annual Meeting, Argonne National Laboratory, IL, June 2022.
 9. 238th Meeting of the American Astronomical Society, virtual, June 2021.
-6. American Association for the Advancement of Science Annual Meeting, virtual, February 2021. 5. American Vacuum Society Prairie Chapter Symposium, virtual, September 2020.
+6. American Association for the Advancement of Science Annual Meeting, virtual, February 2021. 
+6. 5. American Vacuum Society Prairie Chapter Symposium, virtual, September 2020.
 4. American Vacuum Society Prairie Chapter Symposium, Urbana, IL, September 2019.
 3. Dynamics at Surfaces Gordon Research Conference, Newport, RI, July 2019.
 2. American Chemical Society Meeting, Philadelphia, PA, August 2016.
-1. American Society for Biochemistry and Molecular Biology meeting, Boston, MA, March 2015. Best Poster in Plant Metabolism
+1. American Society for Biochemistry and Molecular Biology meeting, Boston, MA, March 2015. *Best Poster in Plant Metabolism*
 
 
 
