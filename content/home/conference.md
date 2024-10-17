@@ -73,20 +73,19 @@ subtitle = ""
 7. “Response of *Chlamydomonas Reinhardtii* to Oxidative Stress and Limits of Habitability.” Tanner Conference, Wellesley, MA, October 2013.
 
 ## Poster Presentations
-1. “Differential Condensation of Methane Isotopologues under Non-Equilibrium Gas Surface Conditions: Experimental Methods and Molecular Dynamic Simulations” American Chemical Society (ACS) Fall Meeting, San Francisco, CA, August 2023.
-2. “Chemical Complexity and the Role of Condensed Film Structure: Methane Adsorption and Propene Oxidation” Astrochemistry at High Resolution Faraday Discussion, Baltimore, MD, May 2023.
-3. Calibration of Mid-Infrared Superconducting Nanowire Single Photon Detectors” 30<sup>th</sup> Annual NIST Sigma XI Early-Career Poster Presentation, NIST, Gaithersburg, MD, May 2023.
-1. "Molecular Interactions with Frozen Ice Films: Adsorption, Isotope Effects, and Hydrogen Bonding” American Chemical Society (ACS) Fall Meeting, Chicago, IL, August 2022.
-1. "Condensed Phase Adsorption and Reactivity: Extraterrestrial Ices, Isotopic Enrichment” Chemistry and Physics at Low Temperature, virtual, July 2022.
-2. “Water and Membrane Structure: Acetone-Hydrogen Bonding and SECM-AFM.”Advanced Materials for Energy-Water Systems Center (AMEWS) Annual Meeting, Argonne National Laboratory, June 2022
-1. “Reaction Kinetics and Influence of Film Morphology on Propene Thin Film Oxidation.” 238th Meeting of the American Astronomical Society (AAS), virtual, June 2021.
-2. “Reverse Water-Gas Shift Chemistry Inside a Supersonic Molecular Beam Nozzle.” American Association for the Advancement of Science (AAAS) Annual Meeting, virtual, February 2021.
-3. “Laser-Induced Decomposition of the Nerve Agent Simulant Dissopropyl Methyphosphonate Under High Temperature Atmospheric Conditions.” American Vacuum Society (AVS) Prairie Chapter Symposium, virtual, September 2020.
-4. “Morphological and Temperature-Dependent Oxidative Reactivity of Propene Thin Films.” American Vacuum Society (AVS) Prairie Chapter Symposium, Urbana, IL, September 2019.
-5. “Morphological and Temperature-Dependent Oxidative Reactivity of Olefin Thin Films.” Dynamics at Surfaces Gordon Research Conference, Newport, RI, July 2019.
-6. “Improving the Detection of Trace Explosives with Advanced Collection Materials.” American Chemical Society (ACS) Meeting, Philadelphia, PA, August 2016.
-7. “The Role of Copper in the Oxidative Stress Response of *Chlamydomonas reinhardtii* to Heat Shock.” American Society for Biochemistry and Molecular Biology (ASBMB) meeting, Boston, MA, March 2015. *Best Poster in Plant Metabolism
-8. “Growth Factors for Prostate Cancer Cells.” Poster presentation delivered at the Ruhlman Conference, Wellesley, MA, April 2014.
+1. American Chemical Society Fall Meeting, Denver, CO, August 2024.
+15. CAS (Chemical Abstract Services) Future Leaders Poster Session, CAS, Columbus, OH, August 2024. 14. Northeast Star and Planet Formation Meeting, MIT Haystack Observatory, MA, July 2024.
+13. American Chemical Society Fall Meeting, San Francisco, CA, August 2023.
+12. Astrochemistry at High Resolution Faraday Discussion, Baltimore, MD, May 2023.
+11. 30th Annual NIST Sigma XI Early-Career Poster Presentation, NIST, Gaithersburg, MD, May 2023. 10. American Chemical Society Fall Meeting, Chicago, IL, August 2022.
+9. Chemistry and Physics at Low Temperature, virtual, July 2022.
+8. Advanced Materials for Energy-Water Systems Annual Meeting, Argonne National Laboratory, IL, June 2022.
+9. 238th Meeting of the American Astronomical Society, virtual, June 2021.
+6. American Association for the Advancement of Science Annual Meeting, virtual, February 2021. 5. American Vacuum Society Prairie Chapter Symposium, virtual, September 2020.
+4. American Vacuum Society Prairie Chapter Symposium, Urbana, IL, September 2019.
+3. Dynamics at Surfaces Gordon Research Conference, Newport, RI, July 2019.
+2. American Chemical Society Meeting, Philadelphia, PA, August 2016.
+1. American Society for Biochemistry and Molecular Biology meeting, Boston, MA, March 2015. *Best Poster in Plant Metabolism*
 
 
 
