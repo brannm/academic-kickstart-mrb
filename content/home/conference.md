@@ -53,24 +53,25 @@ subtitle = ""
 
 
 ## Invited Oral Presentations
-1. The NRC Program at Federal Agencies” American Chemical Society (ACS) Fall Meeting, San Francisco, CA, August 2023.
-1. Condensed Phase Adsorption and Reactivity: Extraterrestrial Ices and Olefin Oxidation” Physical Electronic Conference (PEC) Nottingham Prize Competition, Chicago, IL, June 2022.
+1.  "Condensed Phase Adsorption and Isotopic Enrichment With a Career Journey.” Wellesley College Seminar, Wellesley, MA, January 2024.
+7. "Condensed Phase Adsorption: Extraterrestrial Ices and Isotopic Enrichment.” University of Maryland Seminar, College Park, MD, August 2023.
+1. "The NRC Program at Federal Agencies.” American Chemical Society (ACS) Fall Meeting, San Francisco, CA, August 2023.
+1. "Condensed Phase Adsorption and Reactivity: Extraterrestrial Ices and Olefin Oxidation.” Physical Electronic Conference (PEC) Nottingham Prize Competition, Chicago, IL, June 2022. **Award Finalist Talk.**
 2. “Role of Film Structure on the Condensed Phase Reactivity of Propene with O(<sup>3</sup>P) Atomic Oxygen.” American Chemical Society (ACS) Meeting, San Diego, CA, March 2022.
-3. “Molecular Interactions with Frozen Ice Films: Adsorption, Oxidative Reactivity, and Isotopic Enrichment.” American Vacuum Society (AVS) Surface Science Division Mort Traum Finale, virtual, October 2021.
-4. “Molecular Interactions with Frozen Ice Films: Adsorption, Oxidative Reactivity, and Isotopic Enrichment.”  American Vacuum Society (AVS) 2021 Graduate Research Award Talk, AVS 67 Virtual Symposium Awards Session, October 2021.
+3. “Molecular Interactions with Frozen Ice Films: Adsorption, Oxidative Reactivity, and Isotopic Enrichment.” American Vacuum Society (AVS) Surface Science Division Mort Traum Finale, virtual, October 2021. **Award Finalist Talk.**
+4. “Molecular Interactions with Frozen Ice Films: Adsorption, Oxidative Reactivity, and Isotopic Enrichment.”  American Vacuum Society (AVS) 2021 Graduate Research Award Talk, AVS 67 Virtual Symposium Awards Session, October 2021. **AVS 2021 Graduate Research Award Talk.**
 5. “Morphological and Temperature-Dependent Oxidative Reactivity of Olefin Thin Films.” Dynamics at Surfaces Gordon Research Seminar, Newport, RI, July 2019.
 
 
-## Oral Presentations
-1. Amorphous and Crystalline Propene Reactivity with Ground State Atomic Oxygen (O(<sup>3</sup>P))'' Laboratory Astrophysics Workshop, Kapa'a, Kauai, Hawaii, February 2024.
-2. "Molecular Interactions with Frozen Ice Films: Adsorption, Isotope Effects, and Hydrogen Bonding” American Chemical Society (ACS) Fall Meeting, Chicago, IL, August 2022.
-1. “Differential Condensation of Methane Isotopologues and Subsequent Isotopic Enrichment.” Midwest Women in Science Conference (WISC), virtual, September 2021.
-2. “Differential Condensation of Methane Isotopologues and Subsequent Isotopic Enrichment Under Non-equilibrium Gas-Surface Collision Conditions.” American Vacuum Society (AVS) Prairie Chapter Symposium, virtual, September 2021.
-3. “Molecular Interactions with Ice - Building Blocks of the Solar System.” Transcending Boundaries Research Symposium, Chicago, IL, April 2021.
-4. “Sticking Probability of High-Energy Methane on Ices of Astrophysical Interest.” American Vacuum Society (AVS) Prairie Chapter Symposium, Chicago, IL, September 2018.
-5. “The Role of Copper in the Oxidative Stress Response of *Chlamydomonas reinhardtii* to heat shock.” Ruhlman Conference, Wellesley, MA, April 2015.
-6. “NASA Ames Academy: My Summer of Space and Personal Exploration.” Tanner Conference, Wellesley, MA, October 2014.
-7. “Response of *Chlamydomonas Reinhardtii* to Oxidative Stress and Limits of Habitability.” Tanner Conference, Wellesley, MA, October 2013.
+## Seminars and Oral Presentations
+8. Institute for Theory and Computation Luncheon, Center for Astrophysics, Cambridge, MA, October 2024. 
+8. Laboratory Astrophysics Workshop, Kapa’a, Kauai, Hawaii, February 2024.
+6. SPIE Optics and Photonics Conference, San Diego, CA, August 2023.
+5. American Chemical Society Fall Meeting, Chicago, IL, August 2022.
+4. Midwest Women in Science Conference, virtual, September 2021.
+3. American Vacuum Society Prairie Chapter Symposium, virtual, September 2021.
+2. Transcending Boundaries Research Symposium, virtual, April 2021.
+1. American Vacuum Society Prairie Chapter Symposium, Chicago, IL, September 2018.
 
 ## Poster Presentations
 1. American Chemical Society Fall Meeting, Denver, CO, August 2024.
@@ -79,16 +80,16 @@ subtitle = ""
 13. American Chemical Society Fall Meeting, San Francisco, CA, August 2023.
 12. Astrochemistry at High Resolution Faraday Discussion, Baltimore, MD, May 2023.
 11. 30th Annual NIST Sigma XI Early-Career Poster Presentation, NIST, Gaithersburg, MD, May 2023. 
-11. 10. American Chemical Society Fall Meeting, Chicago, IL, August 2022.
+11.  American Chemical Society Fall Meeting, Chicago, IL, August 2022.
 9. Chemistry and Physics at Low Temperature, virtual, July 2022.
 8. Advanced Materials for Energy-Water Systems Annual Meeting, Argonne National Laboratory, IL, June 2022.
 9. 238th Meeting of the American Astronomical Society, virtual, June 2021.
 6. American Association for the Advancement of Science Annual Meeting, virtual, February 2021. 
-6. 5. American Vacuum Society Prairie Chapter Symposium, virtual, September 2020.
+6.  American Vacuum Society Prairie Chapter Symposium, virtual, September 2020.
 4. American Vacuum Society Prairie Chapter Symposium, Urbana, IL, September 2019.
 3. Dynamics at Surfaces Gordon Research Conference, Newport, RI, July 2019.
 2. American Chemical Society Meeting, Philadelphia, PA, August 2016.
-1. American Society for Biochemistry and Molecular Biology meeting, Boston, MA, March 2015. *Best Poster in Plant Metabolism*
+1. American Society for Biochemistry and Molecular Biology meeting, Boston, MA, March 2015. **Best Poster in Plant Metabolism**
 
 
 
