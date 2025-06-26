@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Teaching Fellow, The Interstellar Medium and Star (and Planet) Formation (Astronomy 203)"
+  company = "Harvard University"
+  company_url = ""
+  location = ""
+  date_start = "2025-01-01"
+  date_end = "2025-05-30"
+  description = """Gave two one hour fifteen minute lectures about the chemistry of star formation. Additionally, responsible for creating problem sets, holding office hours to explain topics, and problem sets, grading the midterm, final and all problem sets for 11 graduate students"""
+
+[[experience]]
   title = "Teaching Assistant, Energy Policy and Human Behavior (PPHA 39925)"
   company = "University of Chicago"
   company_url = ""
