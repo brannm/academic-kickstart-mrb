@@ -53,9 +53,9 @@ subtitle = ""
 
 
 ## Invited Oral Presentations
-1. ``Acetonitrile Photochemistry in Interstellar Ice Analogs'' Wellesley College Chemistry Seminar, Wellesley, MA, November, 2024.
-2. ``Interstellar Ice Analog Chemistry'' University of Richmond Chemistry Department Seminar, Richmond, VA, November 2024. 
-3. ``Interstellar Ice Analog Chemistry: Adsorption and Oxidative Reactivity.'' University of Vermont Chemistry Seminar, Burlington, VT, October, 2024. 
+1. "Acetonitrile Photochemistry in Interstellar Ice Analogs'' Wellesley College Chemistry Seminar, Wellesley, MA, November, 2024.
+2. "Interstellar Ice Analog Chemistry'' University of Richmond Chemistry Department Seminar, Richmond, VA, November 2024. 
+3. "Interstellar Ice Analog Chemistry: Adsorption and Oxidative Reactivity.'' University of Vermont Chemistry Seminar, Burlington, VT, October, 2024. 
 1.  "Condensed Phase Adsorption and Isotopic Enrichment With a Career Journey.” Wellesley College Seminar, Wellesley, MA, January 2024.
 7. "Condensed Phase Adsorption: Extraterrestrial Ices and Isotopic Enrichment.” University of Maryland Seminar, College Park, MD, August 2023.
 1. "The NRC Program at Federal Agencies.” American Chemical Society (ACS) Fall Meeting, San Francisco, CA, August 2023.
@@ -79,6 +79,12 @@ subtitle = ""
 1. American Vacuum Society Prairie Chapter Symposium, Chicago, IL, September 2018.
 
 ## Poster Presentations
+1. Origins of Solar Systems Gordon Research Conference South Hadley, MA, June 2025.
+2. Origins of Solar Systems Gordon Research Seminar, South Hadley, MA, June 2025.
+2. 2\textsuperscript{nd} Annual RCSA Fellows Conference, Tucson, AZ, June 2025. \textbf{Award Poster Session}
+3. Celebrating Women’s Careers in Chemistry Poster Session, Northeastern Section of the American Chemical Society, Cambridge, MA, March 2025. 
+4.  American Chemical Society Fall Meeting, Denver, CO, August 2024.
+CAS (Chemical Abstract Services) Future Leaders Poster Session, CAS, Columbus, OH, August 2024. \textbf{Award Poster Session}
 1. American Chemical Society Fall Meeting, Denver, CO, August 2024.
 15. CAS (Chemical Abstract Services) Future Leaders Poster Session, CAS, Columbus, OH, August 2024. 
 15.  Northeast Star and Planet Formation Meeting, MIT Haystack Observatory, MA, July 2024.
