@@ -53,6 +53,9 @@ subtitle = ""
 
 
 ## Invited Oral Presentations
+1. ``Acetonitrile Photochemistry in Interstellar Ice Analogs'' Wellesley College Chemistry Seminar, Wellesley, MA, November, 2024.
+2. ``Interstellar Ice Analog Chemistry'' University of Richmond Chemistry Department Seminar, Richmond, VA, November 2024. 
+3. ``Interstellar Ice Analog Chemistry: Adsorption and Oxidative Reactivity.'' University of Vermont Chemistry Seminar, Burlington, VT, October, 2024. 
 1.  "Condensed Phase Adsorption and Isotopic Enrichment With a Career Journey.” Wellesley College Seminar, Wellesley, MA, January 2024.
 7. "Condensed Phase Adsorption: Extraterrestrial Ices and Isotopic Enrichment.” University of Maryland Seminar, College Park, MD, August 2023.
 1. "The NRC Program at Federal Agencies.” American Chemical Society (ACS) Fall Meeting, San Francisco, CA, August 2023.
@@ -64,6 +67,8 @@ subtitle = ""
 
 
 ## Seminars and Oral Presentations
+1. Radio Millimeter Submillimeter Seminar, Center for Astrophysics, Cambridge, MA, April 2025. 
+2. American Chemical Society Spring Meeting, San Diego, CA, March 2025.
 8. Institute for Theory and Computation Luncheon, Center for Astrophysics, Cambridge, MA, October 2024. 
 8. Laboratory Astrophysics Workshop, Kapa’a, Kauai, Hawaii, February 2024.
 6. SPIE Optics and Photonics Conference, San Diego, CA, August 2023.
