@@ -48,9 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: //twitter.com/MichelleRBrann
-- icon: bluesky
-  icon_pack: fab
-  link: https://bsky.app/profile/michellebrann.bsky.social
+#- icon: bluesky
+#  icon_pack: fab
+#  link: https://bsky.app/profile/michellebrann.bsky.social
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Sh5XfC0AAAAJ&hl=en
