@@ -5,7 +5,7 @@ authors:
 - MR Brann 
 - SP Hansknecht
 
-date: "2021-04-30"
+date: "2025-05-12"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,8 +18,8 @@ publishDate: ""
 publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication: "US Provisional Patent Application 63/182,204"
-publication_short: "US Provisional Patent Application 63/182,204"
+publication: "US Patent No. 12,296,299, B2"
+publication_short: "US Patent No. 12,296,299, B2"
 
 abstract: 
 
