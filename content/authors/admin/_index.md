@@ -48,6 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: //twitter.com/MichelleRBrann
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/michellebrann.bsky.social
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Sh5XfC0AAAAJ&hl=en
@@ -70,4 +73,4 @@ email: ""
 #- Visitors
 ---
 
-Michelle Brann (she/her) is currently a Postdoctoral Fellow in the [Öberg Group](https://karinoberg.cfa.harvard.edu/) at the Harvard & Smithsonian Center for Astrophysics (CfA). She holds a chemistry PhD from the [Sibener Group](http://sibener-group.uchicago.edu) at the University of Chicago where she explored gas-surface dynamics. She defended in May 2022 and spent one year as a [NRC postdoc](https://sites.nationalacademies.org/PGA/RAP/index.htm) at National Institute of Standards and Technology (NIST) prior to joining the CfA in fall 2023.  She is also an executive commmittee member of the [National Younger Chemists Committee](https://acsycc.org) of the American Chemical Society. After graduating from Wellesley College in May 2015 with a BA with Honors in Chemistry and a minor in Mathematics, she worked for one year as a research associate at Pacific Northwest National Laboratory (PNNL) in the National Security Directorate. 
+Michelle Brann (she/her) is currently a Postdoctoral Fellow in the [Öberg Group](https://karinoberg.cfa.harvard.edu/) at the Harvard & Smithsonian Center for Astrophysics (CfA). She holds a chemistry PhD from the [Sibener Group](http://sibener-group.uchicago.edu) at the University of Chicago where she explored gas-surface dynamics. She defended in May 2022 and spent one year as a [NRC postdoc](https://sites.nationalacademies.org/PGA/RAP/index.htm) at National Institute of Standards and Technology (NIST) prior to joining the CfA in fall 2023.  She is also an associate commmittee member of the [Committee on Economic and Professional Affairs(https://www.acs.org/about/governance/committees/economic-professional-affairs.html) of the American Chemical Society. After graduating from Wellesley College in May 2015 with a BA with Honors in Chemistry and a minor in Mathematics, she worked for one year as a research associate at Pacific Northwest National Laboratory (PNNL) in the National Security Directorate. 
