@@ -10,7 +10,7 @@ title = "Harvard: Astrochemistry"
 summary = "Employing chemical processing (electrons and ultraviolet) to experimentally understand how complex organic molecules form and are stable on interstellar ice analogs"
 
 #Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "spacecat.jpeg"
+#image_preview = "spacecat.jpeg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
