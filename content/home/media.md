@@ -4,11 +4,12 @@ headless = true
 active = true
 weight = 80
 
-title = "Media & Honors"
+title = "Selected Media & Honors"
 subtitle = ""
 
 [design]
   columns = 1
++++
 
 - [ACS Astrochemistry Dissertation Award](http://astro.phys-acs.org/news.html#2025_Award)
 - [Lindau Nobel Laureate Meeting 2025](https://stories.tamu.edu/news/2025/05/28/texas-am-hosts-young-scientists-from-around-the-us-selected-to-attend-2025-lindau-nobel-laureate-meetings/)
@@ -16,4 +17,4 @@ subtitle = ""
 - [Inaugural RCSA Fellow](https://rescorp.org/2024/03/rcsa-selects-inaugural-class-of-rcsa-fellows/)
 - [ACS YCC Feature](https://acsycc.org/meet-the-ycc-michelle-brann/)
 
-+++
+
