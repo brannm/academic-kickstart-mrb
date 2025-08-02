@@ -16,7 +16,7 @@ subtitle = ""
 - [2024 Resarch Corporation for Science Advancement (RCSA) Fellow](https://rescorp.org/2024/03/rcsa-selects-inaugural-class-of-rcsa-fellows/)
 - [ACS Younger Chemist Commitee Member Feature](https://acsycc.org/meet-the-ycc-michelle-brann/)
 - [2021 American Vacuum Society (AVS) National Graduate Research Award](https://avs.org/awards/awards/current-awardees-2021/)
-- [2021 Albert J. Cross Prize for Excellence in Research, Teaching, and Departmental Citizenship, University of Chicago](https://chemistry.uchicago.edu/news/department-of-chemistry-student-awards-spring-2021)
-- [2021 Joan Shiu Chemistry Department Student Service Award, University of Chicago](https://chemistry.uchicago.edu/news/department-of-chemistry-student-awards-spring-2021)
+- [2021 Albert J. Cross Prize for Excellence in Research, University of Chicago](https://chemistry.uchicago.edu/news/department-of-chemistry-student-awards-spring-2021)
+- [2021 Joan Shiu Chemistry Department Service Award, University of Chicago](https://chemistry.uchicago.edu/news/department-of-chemistry-student-awards-spring-2021)
 
 
