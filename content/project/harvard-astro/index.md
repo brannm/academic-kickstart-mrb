@@ -29,7 +29,7 @@ math = false
 
 +++
 
-As a Postdoctoral Fellow in the Öberg Astrochemistry Lab, I investigate the formation and abundance of molecules in interstellar ice analogs relevant to planet formation. My first project examined the photodestruction of ozone and acetonitrile, revealing a novel pathway for complex organic molecule formation via oxygen insertion on icy grains.  Additionally, I am analyzing millimeter ALMA observations of a massive protostar to determine molecular abundances and conducting Gaussian calculations (in collaboration with David Woon) to explore the fate of hydronium ions under electron bombardment. 
+As a Postdoctoral Fellow in the Öberg Astrochemistry Lab, I investigate the formation and abundance of molecules in interstellar ice analogs relevant to planet formation. My first project examined the photodestruction of ozone and acetonitrile, revealing a novel pathway for complex organic molecule formation via oxygen insertion on icy grains.  Additionally, I am analyzing millimeter ALMA observations of a massive protostar to determine molecular abundances and conducting Gaussian calculations (in collaboration with [David Woon](https://www.astrochymist.org/woon/)) to explore the fate of hydronium ions under electron bombardment. 
 
 
 
