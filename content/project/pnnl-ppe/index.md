@@ -29,7 +29,7 @@ math = false
 
 +++
 
-During my gap year as a research associate at Pacific Northwest National Laboratory (PNNL) in the National Security Directorate, I helped design a new composite superhydrophobic material. The wetting behavior of this uniquely flexible and stretchable material was observed while stretching by examining contact and roll-off angle. A publication from this work is currently under review. 
+During my gap year as a research associate at Pacific Northwest National Laboratory (PNNL) in the National Security Directorate, I helped design a new composite superhydrophobic material. The wetting behavior of this uniquely flexible and stretchable material was observed while stretching by examining contact and roll-off angle.
 
 
 

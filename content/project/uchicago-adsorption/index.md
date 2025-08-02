@@ -7,7 +7,7 @@ draft = false
 title = "UChicago: Gas-Surface Dynamics"
 
 # Project summary to display on homepage.
-summary = "Using supersonic molecular beams and time-resolved FT-RAIR Spectroscopy under ultra-high vacuum to examine how impinging molecules adsorb, react, or diffuse into frozen ice films and destruction of nerve agent simulants."
+summary = "Using supersonic molecular beams and time-resolved FT-RAIR Spectroscopy under ultra-high vacuum to examine how impinging molecules adsorb, react, or diffuse into frozen ice films."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "uhv.jpg"
