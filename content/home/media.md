@@ -2,7 +2,7 @@
 widget = "pages"
 headless = true
 active = true
-weight = 80
+weight = 40
 
 title = "Selected Media & Honors"
 subtitle = ""
@@ -11,10 +11,10 @@ subtitle = ""
   columns = 1
 +++
 
-- [ACS Astrochemistry Dissertation Award](http://astro.phys-acs.org/news.html#2025_Award)
-- [Lindau Nobel Laureate Meeting 2025](https://stories.tamu.edu/news/2025/05/28/texas-am-hosts-young-scientists-from-around-the-us-selected-to-attend-2025-lindau-nobel-laureate-meetings/)
-- [CAS Future Leaders 2024](https://www.cas.org/press-releases/cas-announces-2024-selections-prestigious-cas-future-leaders-program)
-- [Inaugural RCSA Fellow](https://rescorp.org/2024/03/rcsa-selects-inaugural-class-of-rcsa-fellows/)
-- [ACS YCC Feature](https://acsycc.org/meet-the-ycc-michelle-brann/)
+- [2025 ACS Astrochemistry Dissertation Award](http://astro.phys-acs.org/news.html#2025_Award)
+- [2025 Lindau Nobel Laureate Meeting](https://stories.tamu.edu/news/2025/05/28/texas-am-hosts-young-scientists-from-around-the-us-selected-to-attend-2025-lindau-nobel-laureate-meetings/)
+- [2024 CAS Future Leader](https://www.cas.org/press-releases/cas-announces-2024-selections-prestigious-cas-future-leaders-program)
+- [2024 RCSA Fellow](https://rescorp.org/2024/03/rcsa-selects-inaugural-class-of-rcsa-fellows/)
+- [American Chemical Society Younger Chemist Commitee Feature](https://acsycc.org/meet-the-ycc-michelle-brann/)
 
 
