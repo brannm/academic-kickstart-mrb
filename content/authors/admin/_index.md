@@ -57,8 +57,8 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/michellebrann/
-- icon: link
-  icon_pack: fas
+- icon: bluesky
+  icon_pack: fab
   link: https://bsky.app/profile/michellebrann.bsky.social
   label: Bluesky
 # Link to a PDF of your resume/CV from the About widget.
