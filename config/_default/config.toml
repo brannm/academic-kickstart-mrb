@@ -38,6 +38,7 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+[params]
 custom_css = ["css/custom.css"]
 
 # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
