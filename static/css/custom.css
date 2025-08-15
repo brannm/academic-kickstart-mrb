@@ -1,0 +1,15 @@
+/* Hide whatever icon the theme renders for Bluesky links */
+a[href*="bsky.app/profile"] i,
+a[href*="bsky.app/profile"] svg { display: none !important; }
+
+/* Inject the Bluesky butterfly via mask, inheriting current text color */
+a[href*="bsky.app/profile"]::before {
+  content: "";
+  display: inline-block;
+  width: 1em; height: 1em;
+  margin-right: .25em;
+  background: currentColor;
+  -webkit-mask: url("/media/icons/bluesky.svg") no-repeat center / contain;
+          mask: url("/media/icons/bluesky.svg") no-repeat center / contain;
+  vertical-align: -.125em;
+}
