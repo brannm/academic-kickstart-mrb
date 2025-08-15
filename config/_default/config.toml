@@ -39,7 +39,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-custom_css = ["css/custom.css"]
+custom_css = ["css/custom.css?v=1"]   # cache-bust once with ?v=1
 
 # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
 [permalinks]
