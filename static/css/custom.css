@@ -1,17 +1,22 @@
-/* Prove CSS is loading: temporarily tint social icons */
-ul.network-icon a { color: #08f !important; }  /* remove after testing */
+/* TEMP: prove this file is loaded, then remove it */
+ul.network-icon a { outline: 1px dotted rgba(0,0,0,.15); }
 
-/* Hide whatever icon the theme renders for this item */
-a[aria-label="Bluesky"] i,
-a[aria-label="Bluesky"] svg { display: none !important; }
+/* Target the FA5 "link" icon used for Bluesky, and remove the FA glyph */
+ul.network-icon a[href*="bsky.app"] i.fa-link::before {
+  content: "" !important;   /* kills the Font Awesome \f0c1 glyph */
+}
 
-/* Inject the Bluesky butterfly BEFORE the link */
-a[aria-label="Bluesky"]::before {
-  content: "";
-  display: inline-block;
-  width: 1em; height: 1em;
-  margin-right: .25em;
-  background-image: url("/css/bluesky.svg");
+/* Paint your Bluesky butterfly on the <i> itself */
+ul.network-icon a[href*="bsky.app"] i.fa-link {
+  display: inline-block !important;
+  width: 1em;               /* scales with .big-icon’s font-size */
+  height: 1em;
+  background-image: url("/css/bluesky.svg");  /* file at static/css/bluesky.svg */
   background-repeat: no-repeat;
   background-size: contain;
+  background-position: center;
   vertical-align: -.125em;
+  /* neutralize FA text rendering space */
+  font: 0/0 a !important;
+  text-shadow: none !important;
+}
