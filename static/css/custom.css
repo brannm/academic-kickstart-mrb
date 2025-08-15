@@ -1,33 +1,17 @@
-/* Match your Bluesky link regardless of icon element */
-a[href*="bsky.app"] i,
-a[href*="bsky.app"] svg { display: none !important; }
+/* Prove CSS is loading: temporarily tint social icons */
+ul.network-icon a { color: #08f !important; }  /* remove after testing */
 
-/* Inject the Bluesky butterfly as a mask, inheriting currentColor */
-a[href*="bsky.app"]::before {
+/* Hide whatever icon the theme renders for this item */
+a[aria-label="Bluesky"] i,
+a[aria-label="Bluesky"] svg { display: none !important; }
+
+/* Inject the Bluesky butterfly BEFORE the link */
+a[aria-label="Bluesky"]::before {
   content: "";
   display: inline-block;
   width: 1em; height: 1em;
   margin-right: .25em;
-  background: currentColor;
-  /* svg placed next to this CSS -> simple relative URL */
-  -webkit-mask: url("bluesky.svg") no-repeat center / contain;
-          mask: url("bluesky.svg") no-repeat center / contain;
+  background-image: url("/css/bluesky.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
   vertical-align: -.125em;
-}
-
-/* Hide whatever icon the theme renders for Bluesky links */
-a[href*="bsky.app/profile"] i,
-a[href*="bsky.app/profile"] svg { display: none !important; }
-
-/* Inject the Bluesky butterfly via mask, inheriting current text color */
-a[href*="bsky.app/profile"]::before {
-  content: "";
-  display: inline-block;
-  width: 1em; height: 1em;
-  margin-right: .25em;
-  background: currentColor;
-  -webkit-mask: url("/media/icons/bluesky.svg") no-repeat center / contain;
-          mask: url("/media/icons/bluesky.svg") no-repeat center / contain;
-  vertical-align: -.125em;
-}
-
