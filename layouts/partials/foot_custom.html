@@ -1,1 +1,18 @@
-<link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+<!-- Bluesky icon shim -->
+<style>
+/* Kill the FA5 link glyph on the Bluesky item */
+ul.network-icon a[href*="bsky.app"] i.fa-link::before { content: "" !important; }
+
+/* Paint the butterfly on the <i> itself */
+ul.network-icon a[href*="bsky.app"] i.fa-link{
+  display:inline-block !important;
+  width:1em; height:1em;
+  background-image:url('{{ "css/bluesky.svg" | relURL }}');
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;
+  vertical-align:-.125em;
+  font:0/0 a !important;
+  text-shadow:none !important;
+}
+</style>
