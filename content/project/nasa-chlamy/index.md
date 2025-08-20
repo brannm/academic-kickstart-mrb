@@ -14,7 +14,7 @@ image_preview = "img/supercluture.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Bactera", "Algae", "Astrobiology", "NASA", "Wellesley"]
+tags = ["Bacteria", "Algae", "Astrobiology", "NASA", "Wellesley"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

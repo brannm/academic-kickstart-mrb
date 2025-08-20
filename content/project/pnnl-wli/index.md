@@ -4,7 +4,7 @@ date = 2016-04-27T00:00:00
 draft = false
 
 # Project title.
-title = "PNNL: White Light Inteferometry for Biofilms"
+title = "PNNL: White Light Interferometry for Biofilms"
 
 # Project summary to display on homepage.
 summary = "Designed a 3D printed flow cell and developed a novel technique to monitor and quantify three-dimensional topology and structure of live biofilms with white light interferometry."

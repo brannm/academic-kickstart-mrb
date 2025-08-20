@@ -4,7 +4,7 @@ date = 2016-04-27T00:00:00
 draft = false
 
 # Project title.
-title = "PNNL: Stretchable Superhydrophbic Materials"
+title = "PNNL: Stretchable Superhydrophobic Materials"
 
 # Project summary to display on homepage.
 summary = "Developed a biomimetic coating with excellent water/liquid repulsion and shedding properties and the unique ability for continued performance when stretched."
